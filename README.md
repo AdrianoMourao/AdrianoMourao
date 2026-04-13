@@ -143,6 +143,16 @@ Atualmente curso mestrado em Engenharia Elétrica pela UFAM, com foco em tecnolo
   style="padding-right: 10px"
    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg"
 />
+
+<img
+  align="left"
+  alt="SolidWorks"
+  title="Solidworks"
+  width="30px"
+  style="padding-right: 10px"
+  src="https://cdn.simpleicons.org/dassaultsystemes"
+/>
+
 <br>
 
 ## 📊 Estatísticas
