@@ -153,10 +153,18 @@ Atualmente curso mestrado em Engenharia Elétrica pela UFAM, com foco em tecnolo
   src="https://cdn.simpleicons.org/dassaultsystemes"
 />
 
+<img
+  align="left"
+  alt="Eplan"
+  title="Eplan"
+  width="20px"
+  style="padding-right: 10px"
+  src="https://upload.wikimedia.org/wikipedia/commons/7/76/Eplan-logo.svg"
+/>
+
 <br>
 
 ## 📊 Estatísticas
-
 
 <img
   align="left"
